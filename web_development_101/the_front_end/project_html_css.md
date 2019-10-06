@@ -2501,6 +2501,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Hardy's Solution (Easy)](https://github.com/SurfingChewie/google-homepage) - [View in Browser](https://SurfingChewie.github.io/google-homepage/)
 * [Muhammad Ahmad's Solution (Easy)](https://github.com/thisisMAhmad/google-homepage) - [View in Browser](https://thisismahmad.github.io/google-homepage/)
 * [Muhammad Ahmad's Solution (Difficult)](https://github.com/thisisMAhmad/google-searchpage) - [View in Browser](https://thisismahmad.github.io/google-searchpage/)
+
 </details>
 
 ### Additional Resources
